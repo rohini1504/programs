@@ -1,0 +1,10 @@
+//to print i am rohini//
+#include<iostream>
+using namespace std;
+int main()
+{
+  cout<<"i"<<endl;
+  cout<<"am"<<endl;
+  cout<<"rohini"<<endl;
+  return 0;
+}
